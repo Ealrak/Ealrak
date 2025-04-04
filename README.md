@@ -1,16 +1,13 @@
-## Hi there 👋
+# 안녕하세요! 프론트엔드 개발자를 꿈꾸는 유재승입니다!
+## 현재 공부하는 프로그램
+* photoshop
+* illustrator
+* HTML5
+* CSS3
+* Javascript
+* Jquery
+* React
+* git
 
-<!--
-**Ealrak/Ealrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 수업 외에 공부하고 노력하는 것
+* 다양한 쪽을 공부하고 있습니다. 
